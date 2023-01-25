@@ -1,2 +1,2 @@
-# Repositorio-Henry
-Este es un repositorio de prueba del curso de Soy henry
+Este es una prueba de soy henry para clonar un archivo de git hub a mi repositorio local
+
